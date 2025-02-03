@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+# Environment variables
+.env
+# Firebase credentials
+talent-iq-firebase.json
+client_secret.json
+# IDE
+.vscode/
+.idea/
+# Virtual environment
+venv/
+env/

@@ -1,0 +1,14 @@
+openai
+pdfplumber
+python-docx
+python-dotenv
+firebase-admin
+google-auth-oauthlib
+google-auth
+pandas
+
+
+
+
+
+
