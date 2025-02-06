@@ -10,6 +10,7 @@ __pycache__/
 # Firebase credentials
 talent-iq-firebase.json
 client_secret.json
+Access.json
 # IDE
 .vscode/
 .idea/
