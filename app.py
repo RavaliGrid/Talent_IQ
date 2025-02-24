@@ -6,7 +6,7 @@ import openai
 import os
 import re
 from resume_analysis import resume_analysis_dashboard
-  # Replace with your actual API key
+
 # Set page config
 st.set_page_config(page_title="TalentIQ", layout="wide")
 
