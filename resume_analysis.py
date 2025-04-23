@@ -10,6 +10,7 @@ import os
 client = OpenAI(api_key=os.environ.get("API_KEY"))
 
 
+
 # -- Resume Analysis Dashboard --
 def resume_analysis_dashboard():
     job_description = ""
